@@ -28,7 +28,7 @@ npm i
 ## Start development server
 
 ```
-cd farz.am
+cd chalkboard
 
 gatsby develop
 ```
